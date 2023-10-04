@@ -76,7 +76,7 @@ Here's a YouTube replay of my bronze medal match against the former World leader
 
 # Sponsors
 I have not recover the required level to ask for sponsorships, nevertheless 
-I wanted to thankœ my previous sponsors for their help between 2019 and 2020:
+I wanted to thank my previous sponsors for their help between 2019 and 2020:
 - [Adesign](https://www.wraps-adesign.fr/)
 - [Arc Système](https://www.arc-systeme.fr/)
 - [Bohning](https://www.bohning.com/fr/)
