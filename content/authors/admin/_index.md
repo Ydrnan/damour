@@ -99,7 +99,7 @@ In my free time, I'm writing my own quantum chemistry code in Rust (a
 beautiful and user-friendly language compared to Fortran) and practicing 
 archery.
 
-Upon completion of my PhD, I would like to move to United States for a postdoctoral
+Upon completion of my PhD, I would like to move to the United States for a postdoctoral
 position in the field of method development in quantum chemistry.
 
 {style="text-align: justify;"}
