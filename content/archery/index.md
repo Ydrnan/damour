@@ -3,21 +3,14 @@ title: Archery
 share: false
 ---
 
-
 Hello!
 I'm Yann Damour, a french compound shooter at [Compagnie d'Archers de Rennes](https://www.facebook.com/archersderennes/).
 I'm back to archery after stopping from 2020 to 2023
 for health reasons. 
 Don't hesitate to follow me on Instagram for more content [<i class="fa-brands fa-instagram"></i>](https://www.instagram.com/dr_yann_/).
 
-For the current season I'm planning to go to:
-- [Kings of Archery](https://www.kingsofarchery.com/), Netherlands
-- [Bondy Archery Tournament](https://www.asbondy-archery.com/index.php/presentation), France
-- [Nimes Archery Tournament](https://www.nimesarchery.com/), France
-
-See you there!
-
 # Titles
+- French Academic Champion 2024
 - French Academic Champion 2020
 - French Academic Champion 2019
 
@@ -37,6 +30,7 @@ See you there!
 ## Indoor
 | Year | Ranking | Best score | Average score | 
 |------|---------|------------|---------------|
+| 2024 | 5       | 595/600    | 593/600       | 
 | 2020 | 7       | 597/600    | 593/600       | 
 | 2019 | 17      | 588/600    | 587/600       |
 ## Outdoor
@@ -49,7 +43,11 @@ See you there!
 ## Indoor
 | Year | Event                            | Individual ranking | Team ranking |  
 |------|----------------------------------|--------------------|--------------|
+| 2024 | King of Archery, Netherland      | ...                | /            | 
 | 2020 | Nimes Archery Tournament, France | 33                 | /            | 
+
+Well, during the King of Archery 2024 I shot 86X in 90 arrows, quite good isn't it?
+Unfortunately, I shot only 890/900 (290/300 28X, 300/300 29X, 300/300 27X) because of a miss during the first end...
 
 ## Outdoor
 | Year | Event                            | Individual ranking | Team ranking |  
@@ -60,6 +58,8 @@ See you there!
 ## Indoor
 | Year | Type     | Ranking |
 |------|----------|---------|
+| 2024 | FFTA     | 6       |
+|      | Academic | 1       |
 | 2020 | FFTA     | 5       |
 |      | Academic | 1       |
 | 2019 | FFTA     | 17      |

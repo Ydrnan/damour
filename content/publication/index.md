@@ -3,6 +3,15 @@ title: Publications
 share: false
 ---
 
+### 2024
+* 7 [Go Green: Selected Configuration Interaction as a More Sustainable Alternative for High Accuracy](https://arxiv.org/abs/2402.13111),<br></a>
+P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, A. Scemama <br>
+<I> arXiv:2402.13111 </I> [physics.chem-ph] <br><br>
+
+* 6 [State-Specific Coupled-Cluster Methods for Excited States](https://arxiv.org/abs/2401.05048),<br></a>
+Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
+<I> J. Chem. Theory Comput.</I> (in press). <br><br>
+
 ### 2023
 * 5. [Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality](https://doi.org/10.1021/acs.jctc.2c01111),<br></a>
 Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.<br>
