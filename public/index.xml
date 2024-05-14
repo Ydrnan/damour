@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yann Damour</title>
-    <link>https://ydrnan.github.io/damour.github.io/</link>
-      <atom:link href="https://ydrnan.github.io/damour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ydrnan.github.io/damour/</link>
+      <atom:link href="https://ydrnan.github.io/damour/index.xml" rel="self" type="application/rss+xml" />
     <description>Yann Damour</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ydrnan.github.io/damour.github.io/media/icon_hud170ec0a69e6b41aab74d07dbe9d5c09_67359_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ydrnan.github.io/damour/media/icon_hud170ec0a69e6b41aab74d07dbe9d5c09_67359_512x512_fill_lanczos_center_3.png</url>
       <title>Yann Damour</title>
-      <link>https://ydrnan.github.io/damour.github.io/</link>
+      <link>https://ydrnan.github.io/damour/</link>
     </image>
     
     <item>
       <title>Quantum Chemistry Code in Rust</title>
-      <link>https://ydrnan.github.io/damour.github.io/project/rust_code/</link>
+      <link>https://ydrnan.github.io/damour/project/rust_code/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/project/rust_code/</guid>
+      <guid>https://ydrnan.github.io/damour/project/rust_code/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m currently writing a quantum chemistry code in Rust on my free time. For the moment it has working RHF, ROHF, RHF/MP2, ROHF/MP2. The implementation of RHF and ROHF/CCSD is in progress&amp;hellip;
 As soon as the interface with &lt;a href=&#34;https://github.com/QuantumPackage/qp2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Package&lt;/a&gt; will be finished (and clean) I will push it on a Github repository.&lt;/p&gt;
 &lt;p&gt;Stay tuned !&lt;/p&gt;
@@ -25,9 +25,9 @@ As soon as the interface with &lt;a href=&#34;https://github.com/QuantumPackage/
     
     <item>
       <title>Quantum Package</title>
-      <link>https://ydrnan.github.io/damour.github.io/post/qp2/</link>
+      <link>https://ydrnan.github.io/damour/post/qp2/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/post/qp2/</guid>
+      <guid>https://ydrnan.github.io/damour/post/qp2/</guid>
       <description>&lt;p&gt;In the context of my PhD, I&amp;rsquo;m using and programming in &lt;a href=&#34;https://github.com/QuantumPackage/qp2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Package&lt;/a&gt;,
 a Fortran programming environnement for wave function methods. You can
 find its documentation &lt;a href=&#34;https://quantum-package.readthedocs.io/en/master/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -50,25 +50,25 @@ find its documentation &lt;a href=&#34;https://quantum-package.readthedocs.io/en
     
     <item>
       <title>Contact</title>
-      <link>https://ydrnan.github.io/damour.github.io/contact/</link>
+      <link>https://ydrnan.github.io/damour/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/contact/</guid>
+      <guid>https://ydrnan.github.io/damour/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ydrnan.github.io/damour.github.io/admin/config.yml</link>
+      <link>https://ydrnan.github.io/damour/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/admin/config.yml</guid>
+      <guid>https://ydrnan.github.io/damour/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archery</title>
-      <link>https://ydrnan.github.io/damour.github.io/archery/</link>
+      <link>https://ydrnan.github.io/damour/archery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/archery/</guid>
+      <guid>https://ydrnan.github.io/damour/archery/</guid>
       <description>&lt;p&gt;Hello!
 I&amp;rsquo;m Yann Damour, a french compound shooter at &lt;a href=&#34;https://www.facebook.com/archersderennes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compagnie d&amp;rsquo;Archers de Rennes&lt;/a&gt;.
 I&amp;rsquo;m back to archery after stopping from 2020 to 2023
@@ -311,9 +311,9 @@ I wanted to thank my previous sponsors for their help between 2019 and 2020:&lt;
     
     <item>
       <title>Publications</title>
-      <link>https://ydrnan.github.io/damour.github.io/publication/</link>
+      <link>https://ydrnan.github.io/damour/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/publication/</guid>
+      <guid>https://ydrnan.github.io/damour/publication/</guid>
       <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -379,9 +379,9 @@ C. Braun, L. Mereacre, W. Hua, T. Stürzer, I. Ponomarev, P. Kroll, A. Slabon, Z
     
     <item>
       <title>Talks</title>
-      <link>https://ydrnan.github.io/damour.github.io/talk/</link>
+      <link>https://ydrnan.github.io/damour/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ydrnan.github.io/damour.github.io/talk/</guid>
+      <guid>https://ydrnan.github.io/damour/talk/</guid>
       <description>&lt;h2 id=&#34;oral-communications&#34;&gt;Oral communications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
