@@ -8,7 +8,7 @@ share: false
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, A. Scemama <br>
 <I> arXiv:2402.13111 </I> [physics.chem-ph] <br><br>
 
-* 6 [State-Specific Coupled-Cluster Methods for Excited States](https://arxiv.org/abs/2401.05048),<br></a>
+* 6 [State-Specific Coupled-Cluster Methods for Excited States](https://doi.org/10.1021/acs.jctc.4c00034),<br></a>
 Y. Damour, A. Scemama, D. Jacquemin, F. Kossoski, and P. F. Loos.<br>
 <I> J. Chem. Theory Comput.</I> (in press). <br><br>
 
