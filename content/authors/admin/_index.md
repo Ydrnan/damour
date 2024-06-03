@@ -31,6 +31,7 @@ interests:
   - Excited states
   - Programming
   - High-Performance Computing
+  - Tensor contraction
   - Archery (sport is health!)
 
 # Education to show in About widget
