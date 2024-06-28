@@ -4,6 +4,9 @@ title: "Talks"
 
 ## Oral communications
 
+* 2. [Diving into the continuum with resonances](slides/2.pdf)
+</a><br> [RCTF 2024](https://rctf2024.sciencesconf.org/), Rouen, France (June 2024).<br><br>
+
 * 1. [A selected configuration interaction study of ground- and excited-state
 electric dipole moments](slides/1.pdf)
 </a><br> [JTMS 2022](https://jtms2022.sciencesconf.org/), Rennes, France (October 2022).<br><br>
