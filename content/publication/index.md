@@ -4,9 +4,9 @@ share: false
 ---
 
 ### 2024
-* 8 [Stochastically accelerated perturbative triples correction in coupled cluster calculations](https://arxiv.org/abs/2405.16962),<br></a>
+* 8 [Stochastically accelerated perturbative triples correction in coupled cluster calculations](https://doi.org/10.1063/5.0220730),<br></a>
 Y. Damour, A. Gallo, A. Scemama<br>
-<I> arXiv:2405.16962 </I> [physics.chem-ph] <br><br>
+<I> J. Chem. Phys. </I><B> 161</B>, 034104 (2024) <br><br>
 
 * 7 [Go Green: Selected Configuration Interaction as a More Sustainable Alternative for High Accuracy](https://arxiv.org/abs/2402.13111),<br></a>
 P. F. Loos, Y. Damour, A. Ammar, M. Caffarel, F. Kossoski, A. Scemama <br>
