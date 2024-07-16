@@ -4,8 +4,12 @@ share: false
 ---
 
 ### 2024
+* 9 [Selected Configuration Interaction for Resonances](https://doi.org/10.48550/arXiv.2407.08576),<br></a>
+Y. Damour, A. Scemama, F. Kossoski, P. F. Loos.<br>
+<I> arXiv:2407.08576 </I> [physics.chem-ph] <br><br>
+
 * 8 [Stochastically accelerated perturbative triples correction in coupled cluster calculations](https://doi.org/10.1063/5.0220730),<br></a>
-Y. Damour, A. Gallo, A. Scemama<br>
+Y. Damour, A. Gallo, A. Scemama.<br>
 <I> J. Chem. Phys. </I><B> 161</B>, 034104 (2024) <br><br>
 
 * 7 [Go Green: Selected Configuration Interaction as a More Sustainable Alternative for High Accuracy](https://arxiv.org/abs/2402.13111),<br></a>
